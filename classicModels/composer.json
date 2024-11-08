@@ -1,0 +1,16 @@
+{
+    "name": "ferdydurke/classc-models",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ferdydurke\\ClassicModels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michel Cadennes",
+            "email": "michel.cadennes@assemblee-virtuelle.org"
+        }
+    ],
+    "require": {}
+}
